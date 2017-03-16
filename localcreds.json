@@ -3,13 +3,13 @@
     "peers": [
       {
         "discovery_host": "196.168.1.9",
-        "discovery_port": 7050,
+        "discovery_port": 7051,
         "api_host": "192.168.1.9",
         "api_port_tls": 5000,
         "api_port": 7050,
         "type": "peer",
         "network_id": "f79d37aa-df29-4c35-93f5-1c49e980e220",
-        "container_id": "a61522a01488e4371abc13422cfe0f1e81fcb3596026dc6dfb71ff26c7f2925d",
+        "container_id": "827cf35e57595c095996305bd42c453eba59ce479d5b8c5f4e36a904faff1d6d",
         "id": "PEER0",
         "api_url": "http://192.168.1.9:7050"
       },
@@ -20,8 +20,8 @@
         "api_port_tls": 5000,
         "api_port": 7050,
         "type": "peer",
-        "network_id": "f79d37aa-df29-4c35-93f5-1c49e980e220",
-        "container_id": "a61522a01488e4371abc13422cfe0f1e81fcb3596026dc6dfb71ff26c7f2925d",
+        "network_id": "a576b9d69558dfa52857b9f551a5a23ef84b08078588d1f209806d46d0c20472",
+        "container_id": "827cf35e57595c095996305bd42c453eba59ce479d5b8c5f4e36a904faff1d6d",
         "id": "PEER1",
         "api_url": "http://192.168.1.9:7050"
       }
@@ -35,8 +35,8 @@
         "api_port_tls": 30303,
         "api_port": 7054,
         "type": "ca",
-        "network_id": "f79d37aa-df29-4c35-93f5-1c49e980e220",
-        "container_id": "4a06f8091b77ab7027ad1e61a34ad177f5c164be36d7784518c649b15a6fa603"
+        "network_id": "a576b9d69558dfa52857b9f551a5a23ef84b08078588d1f209806d46d0c20472",
+        "container_id": "827cf35e57595c095996305bd42c453eba59ce479d5b8c5f4e36a904faff1d6d"
       }
     },
     "users": [
